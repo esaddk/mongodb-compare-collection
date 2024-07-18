@@ -11,7 +11,7 @@ This script allows you to compare collections between two MongoDB instances, ide
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/esaddk/mongodb-compare-collection.git
    cd repository
    ```
 
